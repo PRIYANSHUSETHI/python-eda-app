@@ -103,11 +103,6 @@ This Streamlit app provides the following functionalities:
 ## 🙋‍♂️ Author
 
 **Priyanshu Sethi**  
-Connect with me on [LinkedIn](https://www.linkedin.com/in/priyanshu-sethi/)  
+Connect with me on [LinkedIn](https://www.linkedin.com/in/priyanshu-sethi-bitsh/)  
 Built with ❤️ using Streamlit
 
----
-
-## 📃 License
-
-This project is licensed under the [MIT License](LICENSE).
